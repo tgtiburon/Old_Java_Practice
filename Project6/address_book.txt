@@ -1,0 +1,6 @@
+Bill Gates	bill@microsoft.com	(111) 222-3333
+Larry Ellison	larry@sun.com	(444) 555-6666
+Steve Jobs	steve@apple.com	777-888-9999
+Mike Murach	mike@murach.com	800-221-5528
+Brent Knight	President@lcc.edu	517-555-1851	
+Walt Disney	disneyw@disney.com	(567)555-4896	
